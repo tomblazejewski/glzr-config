@@ -1,0 +1,9 @@
+[2m2025-04-06T09:02:17.593720Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-04-06T09:23:30.259671Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-04-06T09:24:07.965269Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-04-06T09:24:38.180087Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Unable to create directory C:\<PATH_TO_CONFIG>\config.yaml.
+
+Caused by:
+    The filename, directory name, or volume label syntax is incorrect. (os error 123)
